@@ -11,9 +11,9 @@ import { handleProxyConfig, socks5AddressParser, selectRandomAddress, parseEncod
 import { isValidUUID } from '../utils/validation.js';
 
 // Validate default user ID at startup
-if (!isValidUUID(defaultUserID)) {
-	throw new Error('uuid is not valid');
-}
+// if (!isValidUUID(defaultUserID)) {
+// 	throw new Error('uuid is not valid');
+// }
 
 /**
  * Main request handler for the Cloudflare Worker.
