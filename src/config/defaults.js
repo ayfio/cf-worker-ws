@@ -6,7 +6,7 @@
  * Default user ID (UUID format)
  * Generate UUID: [Windows] Press "Win + R", input cmd and run: Powershell -NoExit -Command "[guid]::NewGuid()"
  */
-export const defaultUserID = 'd342d11e-d424-4583-b36e-524ab1f0afa4';
+export const defaultUserID = 'd3f8a1c9-7b4e-4d2a-9f6c-8e5b3a7d1c4f';
 
 /**
  * Default Trojan password
